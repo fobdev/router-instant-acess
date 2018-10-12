@@ -6,3 +6,5 @@ What the program do:
 4 - Creates a string from the adress;
 5 - Opens the string in the default user browser;
 6 - Deletes the "ip.txt" file, as it is only necessary for searching.
+
+Download: https://github.com/pedroxvi/RouterInstantAcess/raw/master/router/router.exe
