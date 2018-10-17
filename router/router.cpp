@@ -27,7 +27,7 @@ int main()
     	{
  			getline(IPFile,line);
  		
- 			// Gets the pointer to the position that ends the serach0 array
+ 			// Gets the pointer to the position that ends the search0 array
  			if ((offset = line.find(search0, 0)) != string::npos)
  			{
  				// Delete all the characters of the line but the adress
